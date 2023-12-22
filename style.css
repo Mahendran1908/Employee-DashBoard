@@ -1,0 +1,25 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      height: 100vh;
+    }
+
+    #employee-details {
+      flex: 1;
+      background-color: #f2f2f2;
+      padding: 20px;
+      
+    }
+
+    #canvas-container {
+      flex: 1;
+      background-color: #e0e0e0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    
